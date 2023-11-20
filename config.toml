@@ -1,5 +1,4 @@
-baseURL = 'https://christinesfn.pages.dev/'
-relativeURLs = "true"
+baseURL = ''
 languageCode = 'en-us'
 title = "Christine's Fields Note"
 theme = 'nostyleplease'
