@@ -1,0 +1,10 @@
+baseURL = ''
+languageCode = 'en-us'
+title = "Christine's Fields Note"
+theme = 'no-style-please'
+
+[taxonomies]
+  bookshelf = "bookshelf"
+  people = "people"
+  questions = "questions"
+  tag = "tags"

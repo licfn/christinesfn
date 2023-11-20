@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poeple on Christine&#39;s Fields Note</title>
+    <link>/people/</link>
+    <description>Recent content in Poeple on Christine&#39;s Fields Note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Nov 2023 17:03:09 +0300</lastBuildDate><atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Historical</title>
+      <link>/people/historical/</link>
+      <pubDate>Tue, 14 Nov 2023 22:39:19 +0300</pubDate>
+      
+      <guid>/people/historical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHD</title>
+      <link>/people/phd/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/people/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorem</title>
+      <link>/people/lorem/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/people/lorem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

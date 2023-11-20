@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Christine&#39;s Fields Note</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Christine&#39;s Fields Note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Nov 2023 22:39:19 +0300</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Person N1</title>
+      <link>/posts/person-n1/</link>
+      <pubDate>Tue, 14 Nov 2023 22:39:19 +0300</pubDate>
+      
+      <guid>/posts/person-n1/</guid>
+      <description>Fusce non velit cursus ligula mattis convallis vel at metus. Sed pharetra tellus massa, non elementum eros vulputate non. Suspendisse potenti. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc. Sed massa quam, auctor in eros quis, porttitor tincidunt orci. Nulla convallis id sapien ornare viverra. Cras nec est lacinia ligula porta tincidunt. Nam a est eget ligula pellentesque posuere. Maecenas quis enim ac risus accumsan scelerisque. Aliquam vitae libero sapien.</description>
+    </item>
+    
+    <item>
+      <title>Book N1</title>
+      <link>/posts/book-n1/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0800</pubDate>
+      
+      <guid>/posts/book-n1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis. Sed consectetur, nisl et semper laoreet, velit augue congue nunc, eget eleifend odio erat eu sapien. Phasellus dictum efficitur dapibus.</description>
+    </item>
+    
+    <item>
+      <title>Question N2.... ?</title>
+      <link>/posts/question-n2/</link>
+      <pubDate>Fri, 26 Aug 2022 22:29:10 +0800</pubDate>
+      
+      <guid>/posts/question-n2/</guid>
+      <description>Test for C #define UNICODE #include &amp;lt;windows.h&amp;gt; int main(int argc, char **argv) { int speed = 0, speed1 = 0, speed2 = 0; // 1-20  printf(&amp;#34;Set Mouse Speed by Maverick\n&amp;#34;); SystemParametersInfo(SPI_GETMOUSESPEED, 0, &amp;amp;speed, 0); printf(&amp;#34;Current speed: %2d\n&amp;#34;, speed); if (argc == 1) return 0; if (argc &amp;gt;= 2) sscanf(argv[1], &amp;#34;%d&amp;#34;, &amp;amp;speed1); if (argc &amp;gt;= 3) sscanf(argv[2], &amp;#34;%d&amp;#34;, &amp;amp;speed2); if (argc == 2) // set speed to first value  speed = speed1; else if (speed == speed1 || speed == speed2) // alternate  speed = speed1 + speed2 - speed; else speed = speed1; // start with first value  SystemParametersInfo(SPI_SETMOUSESPEED, 0, speed, 0); SystemParametersInfo(SPI_GETMOUSESPEED, 0, &amp;amp;speed, 0); printf(&amp;#34;New speed: %2d\n&amp;#34;, speed); return 0; } Test for Java import java.</description>
+    </item>
+    
+    <item>
+      <title>Book N3</title>
+      <link>/posts/book-n3/</link>
+      <pubDate>Fri, 26 Aug 2022 22:28:10 +0800</pubDate>
+      
+      <guid>/posts/book-n3/</guid>
+      <description>Inline math: \(\varphi\)Displayed math: $$\begin{aligned}\varphi &amp;amp;\Rightarrow \psi \\\varnothing &amp;amp;\rightarrow A\end{aligned}$$$$ R_{\mu \nu} - {1 \over 2}g_{\mu \nu},R + g_{\mu \nu} \Lambda = {8 \pi G \over c^4} T_{\mu \nu} $$
+The equation $$(x_i \cdot x_j)^2$$ is called kernel function and is often written as $$k(x_i, x_j)$$.
+$$ \arg\max_\alpha \sum_j \alpha_j - \frac{1}{2} \sum_{j,k} \alpha_j, \alpha_k y_j y_k (x_j \cdot x_k) $$</description>
+    </item>
+    
+    <item>
+      <title>Book N2</title>
+      <link>/posts/book-n2/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/posts/book-n2/</guid>
+      <description>Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo.
+Table of contents  Table of contents The start The middle The end  Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo.</description>
+    </item>
+    
+    <item>
+      <title>Person N2</title>
+      <link>/posts/person-n2/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/posts/person-n2/</guid>
+      <description>Lorem ipsum1 dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis. Sed consectetur, nisl et semper laoreet, velit augue congue nunc, eget eleifend odio erat eu sapien. Phasellus dictum efficitur dapibus.</description>
+    </item>
+    
+    <item>
+      <title>Book N4</title>
+      <link>/posts/book-n4/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/posts/book-n4/</guid>
+      <description>Note: I took this test post from moving, which is another Jekyll theme which is better that this one so I should not have linked it because now you will decide to use it instead of mine.
+1. 日本語テスト This is a Japanese test post to show you how japanese is displayed.
+私は昨日ついにその助力家というのの上よりするたなけれ。 最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。 がたを知っないはずも同時に九月をいよいよたありた。
+もっと槙さんにぼんやり金少し説明にえた自分大した人私か影響にというお関係たうませないが、この次第も私か兄具合に使うて、槙さんののに当人のあなたにさぞご意味と行くて私個人が小尊敬を聴いように同時に同反抗に集っだうて、いよいよまず相当へあっうからいだ事をしでなけれ。
+ それでそれでもご時日をしはずはたったいやと突き抜けるますて、その元がは行ったてという獄を尽すていけですた。
+ この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。
+From すぐ使えるダミーテキスト - 日本語 Lorem ipsum.
+2. 繁体中文测试 This is a chinese test post to show you how chinese is displayed.</description>
+    </item>
+    
+    <item>
+      <title>Person N3</title>
+      <link>/posts/person-n3/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/posts/person-n3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis.</description>
+    </item>
+    
+    <item>
+      <title>Why questions.. ?</title>
+      <link>/posts/question-n1/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/posts/question-n1/</guid>
+      <description>Lorem ipsum1 dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
+Sample heading 1 Sample heading 2 Sample heading 3 Sample heading 4 Sample heading 5 Sample heading 6 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum.</description>
+    </item>
+    
+  </channel>
+</rss>

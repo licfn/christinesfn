@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PHD on Christine&#39;s Fields Note</title>
+    <link>/people/phd/</link>
+    <description>Recent content in PHD on Christine&#39;s Fields Note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0800</lastBuildDate><atom:link href="/people/phd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Person N2</title>
+      <link>/posts/person-n2/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/posts/person-n2/</guid>
+      <description>Lorem ipsum1 dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis. Sed consectetur, nisl et semper laoreet, velit augue congue nunc, eget eleifend odio erat eu sapien. Phasellus dictum efficitur dapibus.</description>
+    </item>
+    
+  </channel>
+</rss>
