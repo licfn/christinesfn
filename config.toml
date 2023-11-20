@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://christinesfn.pages.dev/'
 languageCode = 'en-us'
 title = "Christine's Fields Note"
 theme = 'nostyleplease'
