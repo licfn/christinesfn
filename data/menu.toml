@@ -1,0 +1,30 @@
+[[entries]]
+title = "About Me"
+
+  [[entries.entries]]
+  title = "Hi there, I'm Christine. This is where I share my raw and unfiltered thoughts on the things I come across - whether it's what I see, read, watch, or listen to. Consider this place a dumping ground for meandering thoughts."
+
+[[entries]]
+title = "All posts"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "Bookshelf"
+url = "bookshelf"
+
+[[entries]]
+title = "People"
+  url = "people"
+
+[[entries]]
+title = "Questions"
+url = "questions"
+
+[[entries]]
+title = "Tags"
+url = "tags"

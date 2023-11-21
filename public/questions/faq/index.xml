@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FAQ on Christine&#39;s Fields Note</title>
-    <link>/questions/faq/</link>
+    <link>https://christinesfn.pages.dev/questions/faq/</link>
     <description>Recent content in FAQ on Christine&#39;s Fields Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Aug 2022 22:29:10 +0800</lastBuildDate><atom:link href="/questions/faq/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Aug 2022 22:29:10 +0800</lastBuildDate><atom:link href="https://christinesfn.pages.dev/questions/faq/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Question N2.... ?</title>
-      <link>/posts/question-n2/</link>
+      <link>https://christinesfn.pages.dev/posts/question-n2/</link>
       <pubDate>Fri, 26 Aug 2022 22:29:10 +0800</pubDate>
       
-      <guid>/posts/question-n2/</guid>
+      <guid>https://christinesfn.pages.dev/posts/question-n2/</guid>
       <description>Test for C #define UNICODE #include &amp;lt;windows.h&amp;gt; int main(int argc, char **argv) { int speed = 0, speed1 = 0, speed2 = 0; // 1-20  printf(&amp;#34;Set Mouse Speed by Maverick\n&amp;#34;); SystemParametersInfo(SPI_GETMOUSESPEED, 0, &amp;amp;speed, 0); printf(&amp;#34;Current speed: %2d\n&amp;#34;, speed); if (argc == 1) return 0; if (argc &amp;gt;= 2) sscanf(argv[1], &amp;#34;%d&amp;#34;, &amp;amp;speed1); if (argc &amp;gt;= 3) sscanf(argv[2], &amp;#34;%d&amp;#34;, &amp;amp;speed2); if (argc == 2) // set speed to first value  speed = speed1; else if (speed == speed1 || speed == speed2) // alternate  speed = speed1 + speed2 - speed; else speed = speed1; // start with first value  SystemParametersInfo(SPI_SETMOUSESPEED, 0, speed, 0); SystemParametersInfo(SPI_GETMOUSESPEED, 0, &amp;amp;speed, 0); printf(&amp;#34;New speed: %2d\n&amp;#34;, speed); return 0; } Test for Java import java.</description>
     </item>
     

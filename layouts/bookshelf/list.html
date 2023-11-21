@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{ partial "back_link.html" .}}
+
+<h1>{{ .Title }}</h1>
+
+<ul class="post-list">
+  {{ range .Pages }}
+    <li class="post-list-item">
+      <a class="post-list-link" href="{{ .Permalink }}">
+        {{ .Title }}
+      </a>
+    </li>
+  {{ end }}
+</ul>
+
+{{ partial "post_list.html" (dict "context" . "section" .Section)}}
+{{ end }}

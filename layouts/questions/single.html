@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ range $name, $taxonomy := .Site.Taxonomies.questions }}
+    <h2>{{ $name }}</h2>
+    <ul>
+      {{ range $taxonomy.Pages }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+{{ end }}

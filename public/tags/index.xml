@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>All tags on Christine&#39;s Fields Note</title>
-    <link>/tags/</link>
+    <link>https://christinesfn.pages.dev/tags/</link>
     <description>Recent content in All tags on Christine&#39;s Fields Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Nov 2023 17:56:09 +0300</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Nov 2023 17:56:09 +0300</lastBuildDate><atom:link href="https://christinesfn.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Life</title>
-      <link>/tags/life/</link>
+      <link>https://christinesfn.pages.dev/tags/life/</link>
       <pubDate>Tue, 14 Nov 2023 22:39:19 +0300</pubDate>
       
-      <guid>/tags/life/</guid>
+      <guid>https://christinesfn.pages.dev/tags/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>/tags/personal/</link>
+      <link>https://christinesfn.pages.dev/tags/personal/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0800</pubDate>
       
-      <guid>/tags/personal/</guid>
+      <guid>https://christinesfn.pages.dev/tags/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tech</title>
-      <link>/tags/tech/</link>
+      <link>https://christinesfn.pages.dev/tags/tech/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0800</pubDate>
       
-      <guid>/tags/tech/</guid>
+      <guid>https://christinesfn.pages.dev/tags/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leader</title>
-      <link>/tags/leader/</link>
+      <link>https://christinesfn.pages.dev/tags/leader/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0800</pubDate>
       
-      <guid>/tags/leader/</guid>
+      <guid>https://christinesfn.pages.dev/tags/leader/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Currently Reading</title>
-      <link>/tags/currently-reading/</link>
+      <link>https://christinesfn.pages.dev/tags/currently-reading/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0800</pubDate>
       
-      <guid>/tags/currently-reading/</guid>
+      <guid>https://christinesfn.pages.dev/tags/currently-reading/</guid>
       <description></description>
     </item>
     

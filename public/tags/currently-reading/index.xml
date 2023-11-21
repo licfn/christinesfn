@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Currently Reading on Christine&#39;s Fields Note</title>
-    <link>/tags/currently-reading/</link>
+    <link>https://christinesfn.pages.dev/tags/currently-reading/</link>
     <description>Recent content in Currently Reading on Christine&#39;s Fields Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0800</lastBuildDate><atom:link href="/tags/currently-reading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0800</lastBuildDate><atom:link href="https://christinesfn.pages.dev/tags/currently-reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Person N3</title>
-      <link>/posts/person-n3/</link>
+      <link>https://christinesfn.pages.dev/posts/person-n3/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0800</pubDate>
       
-      <guid>/posts/person-n3/</guid>
+      <guid>https://christinesfn.pages.dev/posts/person-n3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis.</description>
     </item>
     

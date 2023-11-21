@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qestions on Christine&#39;s Fields Note</title>
-    <link>/questions/</link>
+    <link>https://christinesfn.pages.dev/questions/</link>
     <description>Recent content in Qestions on Christine&#39;s Fields Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Nov 2023 17:10:44 +0300</lastBuildDate><atom:link href="/questions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Nov 2023 17:10:44 +0300</lastBuildDate><atom:link href="https://christinesfn.pages.dev/questions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FAQ</title>
-      <link>/questions/faq/</link>
+      <link>https://christinesfn.pages.dev/questions/faq/</link>
       <pubDate>Fri, 26 Aug 2022 22:29:10 +0800</pubDate>
       
-      <guid>/questions/faq/</guid>
+      <guid>https://christinesfn.pages.dev/questions/faq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Random</title>
-      <link>/questions/random/</link>
+      <link>https://christinesfn.pages.dev/questions/random/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0800</pubDate>
       
-      <guid>/questions/random/</guid>
+      <guid>https://christinesfn.pages.dev/questions/random/</guid>
       <description></description>
     </item>
     
