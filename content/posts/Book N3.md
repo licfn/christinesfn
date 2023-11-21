@@ -3,6 +3,7 @@ title: "Book N3"
 date: 2022-08-26T22:28:10+08:00
 mathjax: fals
 draft: false
+bookshelf: ["Engineering"]
 ---
 Inline math: {{< texi `\varphi` >}}
 
