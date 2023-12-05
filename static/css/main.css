@@ -178,7 +178,7 @@ code.has-jax {
 blockquote {
   margin-top: 3rem;
   margin-bottom: 3rem;
-  font-style: italic;
+  font-style: bold;
   border: thin solid black;
   padding: 1rem;
   background-color: white;
