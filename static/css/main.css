@@ -1,69 +1,51 @@
-html {
-  height: 100%;
+// -------------- THEME SWITCHER -------------- //
+@mixin dark-appearance {
+  filter: invert(1);
+  img {
+    filter: invert(1);
+
+    &.ioda { filter: invert(0); }
+  }
 }
 
+body[a="dark"] { @include dark-appearance; }
+
+
+@media (prefers-color-scheme: dark) {
+  body[a="auto"] { @include dark-appearance; }
+}
+// -------------------------------------------- //
+
+// bg color is also needed in html in order to
+// block body's background propagation
+// see: https://stackoverflow.com/a/61265706
+html, body { background: white; }
+
+html { height: 100%; }
+
 body {
-  background-color: #ffffff; /* Light mode background */
-  color: #212121; /* Light mode text color */
+  color: black;
   font-family: monospace;
   font-size: 16px;
-  line-height: 1.4;
+  line-height: 1.8;
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
 }
 
-a {
-  color: #1e70bf; /* Light mode link color */
-  text-decoration: none;
-}
+.post-meta { text-align: right; }
 
-a:visited {
-  color: #921292; /* Light mode visited link color */
-}
+h2, h3, h4, h5, h6 { margin-top: 3rem; margin-bottom: 3rem;}
 
-a:hover {
-  text-decoration: underline;
-}
+h1 {margin-bottom: 3rem;}
 
-code:not(pre > code) {
-  background-color: #212121; /* Light mode code background */
-  color: #ffffff; /* Light mode code text color */
-  padding: 0.1em 0.2em;
-  font-size: 90%;
-}
+hr { margin: 2rem 0; }
 
-figcaption {
-  color: #666666; /* Light mode figcaption color */
-  text-align: center;
-  opacity: 0.5;
-}
+p { margin: 3rem 0; }
 
-/* The rest of your styles remain unchanged */
-.post-meta {
-  text-align: right;
-}
-/* ... other styles ... */
+li { margin: 0.2rem 0; }
 
-h2, h3, h4, h5, h6 {
-  margin-top: 3rem;
-}
-
-hr {
-  margin: 2rem 0;
-}
-
-p {
-  margin: 1rem 0;
-}
-
-li {
-  margin: 0.4rem 0;
-}
-
-*:target {
-  background: yellow;
-}
+*:target { background: yellow; }
 
 .w {
   max-width: 640px;
@@ -79,12 +61,9 @@ li {
 hr {
   text-align: center;
   border: 0;
-}
-hr:before {
-  content: "/////";
-}
-hr:after {
-  content: attr(data-content) "/////";
+
+  &:before { content: '/////' }
+  &:after { content: attr(data-content) '/////' }
 }
 
 pre {
@@ -93,9 +72,7 @@ pre {
   overflow-x: auto; /* Fix pre content overflowing parent without scroll bar */
 }
 
-table {
-  width: 100%;
-}
+table { width: 100%; }
 
 table, th, td {
   border: thin solid black;
@@ -103,7 +80,10 @@ table, th, td {
   padding: 0.4rem;
 }
 
-code:not(pre > code) {
+code {
+  color: white;
+  background: black; 
+  font-size: 80%;
   padding: 0.1em 0.2em;
   font-size: 90%;
 }
@@ -122,15 +102,14 @@ blockquote {
   border: thin solid black;
   padding: 1rem;
   background-color: white;
-}
-blockquote p {
-  margin: 0;
+
+  p { margin: 0; }
 }
 
 img {
   max-width: 100%;
   display: block;
-  margin: 0 auto;
+  margin: 3rem;
 }
 
 figcaption {
