@@ -1,55 +1,10 @@
-
-body[a=light] {
-  background-color: #ffffff;
-  color: #212121;
-}
-body[a=light] a {
-  color: #1e70bf;
-  text-decoration: none;
-}
-body[a=light] a:visited {
-  color: #921292;
-}
-body[a=light] a:hover {
-  text-decoration: underline;
-}
-body[a=light] code:not(pre > code) {
-  background-color: #212121;
-  color: #ffffff;
-}
-body[a=light] figcaption {
-  color: #666666;
-}
-
-
-@media (prefers-color-scheme: light) {
-  body[a=auto] {
-    background-color: #ffffff;
-    color: #212121;
-  }
-  body[a=auto] a {
-    color: #1e70bf;
-    text-decoration: none;
-  }
-  body[a=auto] a:visited {
-    color: #921292;
-  }
-  body[a=auto] a:hover {
-    text-decoration: underline;
-  }
-  body[a=auto] code:not(pre > code) {
-    background-color: #212121;
-    color: #ffffff;
-  }
-  body[a=auto] figcaption {
-    color: #666666;
-  }
-}
 html {
   height: 100%;
 }
 
 body {
+  background-color: #ffffff; /* Light mode background */
+  color: #212121; /* Light mode text color */
   font-family: monospace;
   font-size: 16px;
   line-height: 1.4;
@@ -58,9 +13,37 @@ body {
   overflow-wrap: break-word;
 }
 
+a {
+  color: #1e70bf; /* Light mode link color */
+  text-decoration: none;
+}
+
+a:visited {
+  color: #921292; /* Light mode visited link color */
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+code:not(pre > code) {
+  background-color: #212121; /* Light mode code background */
+  color: #ffffff; /* Light mode code text color */
+  padding: 0.1em 0.2em;
+  font-size: 90%;
+}
+
+figcaption {
+  color: #666666; /* Light mode figcaption color */
+  text-align: center;
+  opacity: 0.5;
+}
+
+/* The rest of your styles remain unchanged */
 .post-meta {
   text-align: right;
 }
+/* ... other styles ... */
 
 h2, h3, h4, h5, h6 {
   margin-top: 3rem;
@@ -153,4 +136,4 @@ img {
 figcaption {
   text-align: center;
   opacity: 0.5;
-}/*# sourceMappingURL=main.css.map */
+}
