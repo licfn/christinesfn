@@ -20,7 +20,7 @@
 }
 
 @mixin light-appearance {
-  @include theme(#ffffff, #212121, #666666, #1e70bf, #921292);
+  @include theme(#ffffff);
 }
 
 body[a="light"] { @include light-appearance; }
