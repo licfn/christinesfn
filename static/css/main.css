@@ -176,12 +176,9 @@ code.has-jax {
 }
 
 blockquote {
-  margin-top: 3rem;
-  margin-bottom: 3rem;
-  font-style: bold;
+  font-style: italic;
   border: thin solid black;
   padding: 1rem;
-  background-color: white;
 }
 blockquote p {
   margin: 0;
@@ -196,4 +193,4 @@ img {
 figcaption {
   text-align: center;
   opacity: 0.5;
-}/*# sourceMappingURL=main.css.map */"
+}/*# sourceMappingURL=main.css.map */
