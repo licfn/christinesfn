@@ -7,7 +7,7 @@ tags : ["about"]
 ---
 
 <a name="Paragraphs"></a>
-Paragraphs  
+
   
 Hello and welcome to <em>CfN</em>. Here, I’ll be sharing my thoughts and observations, much like one would jot down in a field note. You can expect a wide range of topics, from books and films to everyday happenings. I hope to explore these subjects with the openness and curiosity of a three-year-old. You'll often find me asking ‘why’ and ‘what does that mean?’  
   
