@@ -11,4 +11,4 @@ Hello and welcome to <em>CfN</em>. Here, I’ll be sharing my thoughts and obser
   
 My posts will reflect my current thinking, meaning that the thoughts I express on here are inchoate and always open to revision and refinement. I see <em>CfN</em> as a great way to document that evolution.  
   
-I also welcome your comments and thoughts. <em>CfN</em> is meant to be a space for conversation, not just my own views. Your comments are valuable and can help shape and inform my thinking.
+I also welcome your comments and thoughts. <em>CfN</em> is meant to be a space for conversation, not just my own views. Feel free to contact me.
